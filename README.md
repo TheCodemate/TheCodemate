@@ -1,4 +1,4 @@
-### Hi there 👋
+### Endlessly amazed by the possibility of world change given by coding👋
 
 <!--
 **TheCodemate/TheCodemate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
