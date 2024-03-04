@@ -4,7 +4,7 @@ Hello there 👋
 A Project manager by ☼ and a React Developer by night ☾
 
 🧰 I use daily: React, Express, TypeScript, Prisma, Vite, Tailwind Css, Zod  
-🌍 Admiring how programming changes today's world into a better place, making people's lives better and improving the way companies work.  
+🌍 Admiring how programming changes today's world into a better place, making people's lives easier.  
 💬 ping me if you want to change the world together  
 
 ⚒️ Currently working on: 
