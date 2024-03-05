@@ -8,7 +8,7 @@ A Project manager by ☼ and a React Developer by night ☾
 💬 ping me if you want to change the world together  
 
 ⚒️ Currently working on: 
- - 🖥️ Frontend: https://github.com/TheCodemate/customer-register-fe
- - ⚙️ Backend: https://github.com/TheCodemate/customers-register-be
-
+ - 🖥️ Frontend: https://github.com/TheCodemate/business-managment-system-fe  
+ - ⚙️ Backend: https://github.com/TheCodemate/business-managment-system-be
+   
 By centralizing data management, the software provides multiple business functions with a single view of the truth. This helps a company better manage complex business processes by giving employees of different departments easy access to real-time insights across the enterprise.
