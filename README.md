@@ -1,10 +1,10 @@
 ### Endlessly amazed by the possibility of world change given by the coding👋
 
 Hello there 👋
-A Project manager by ☼ and a React Developer by night ☾
+A Project manager by ☼ and a Full Stack Developer by night ☾
 
-🧰 I use daily: React, Express, TypeScript, Prisma, Vite, Tailwind Css, Zod  
-🌍 Admiring how programming changes today's world into a better place, making people's lives easier.  
+🧰 I use daily: React, Express, TypeScript, Prisma, Vite, Tailwind Css, Zod, PostgreSQL, MySQL 
+🌍 Admiring how programming changes today's world & making people's lives easier.  
 💬 ping me if you want to change the world together  
 
 ⚒️ Currently working on: 
